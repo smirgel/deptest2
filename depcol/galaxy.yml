@@ -1,0 +1,8 @@
+namespace: dep
+name: depcol
+#version: 1.0.0
+version: this_is_not_a_semantic_version
+dependencies: {}
+authors:
+- author1
+readme: README.md
